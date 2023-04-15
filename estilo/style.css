@@ -67,8 +67,3 @@ button:hover {
     color: hsl(228, 45%, 44%);
 }
 
-@media screen and (max-width:575px) {
-    .img-web {
-        width: 450px
-    }
-}
